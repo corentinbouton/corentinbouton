@@ -27,6 +27,14 @@
 
 Here is a sneak peak of some of my personal Data Science projects:
 
+### [UK Politics: From Words to Votes](https://github.com/corentinbouton/uk-politics)
+- This NLP model categorizes UK political parties on a scale from left-wing to right-wing using speeches from MPs spanning 1970 to present.
+- Technologies used: Python, NLP, Sentiment Analysis, TF-IDF, Random Forest.
+
+<p align="center">
+	<img src="https://raw.githubusercontent.com/corentinbouton/uk-politics/main/results/political_party_spectrum.png" alt="Political UK spectrum" style="width: 600px">
+</p>
+
 ### [LEGO Minifigures Classification](https://github.com/corentinbouton/lego-minifigures)
 - This project uses the YOLOv8 model to classify LEGO minifigure images, showcasing the power of deep learning in image recognition.
 - Technologies used: Python, YOLOv8, Computer Vision.
@@ -54,5 +62,5 @@ Here is a sneak peak of some of my personal Data Science projects:
 </p>
 
 <p align="center">
-	<img src="https://raw.githubusercontent.com/corentinbouton/RFID-tags-detection/main/results/accuracy_epochs.png" alt="Experiment schema, data collection" style="width: 500px">
+	<img src="https://raw.githubusercontent.com/corentinbouton/RFID-tags-detection/main/results/accuracy_epochs.png" alt="Experiment schema, data collection" style="width: 450px">
 </p>
