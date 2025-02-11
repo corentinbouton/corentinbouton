@@ -29,7 +29,7 @@ Here is a sneak peak of some of my personal Data Science projects:
 
 ### [UK Politics: From Words to Votes](https://github.com/corentinbouton/uk-politics)
 - This NLP model categorizes UK political parties on a scale from left-wing to right-wing using speeches from MPs spanning 1970 to present.
-- Technologies used: Python, NLP, Sentiment Analysis, TF-IDF, Random Forest.
+- Technologies used: Python, NLP, Sentiment Analysis, TF-IDF, XGBoost.
 
 <p align="center">
 	<img src="https://raw.githubusercontent.com/corentinbouton/uk-politics/main/results/political_party_spectrum.png" alt="Political UK spectrum" style="width: 600px">
